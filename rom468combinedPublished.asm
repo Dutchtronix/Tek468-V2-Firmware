@@ -6,9 +6,9 @@
 ;
 ; ..\aswcurr\bin\asw -i . -cpu 8085 -L rom468combined.asm
 ; ..\aswcurr\bin\p2bin.exe rom468combined -r $0000-$3fff
-; comp Rom4682roms.bin rom468combined.bin <no.txt
+; comp Rom468Originals.bin rom468combined.bin <no.txt
 ;
-; where Rom4682roms.bin is a binary copy of the original roms
+; where Rom468Originals.bin is a binary copy of the combined original roms U565 and U575
 ; and no.txt just contains the word "no"
 ;
 	
